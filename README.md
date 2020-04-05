@@ -1,7 +1,7 @@
 # pretrained_language_model
 
 ## bert
-- https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip, loading: bert, Huggingface-Transformers 2.2.2？
+- https://github.com/google-research/bert, loading: bert, Huggingface-Transformers 2.2.2？
 
 ## ymcui
 - https://github.com/ymcui/Chinese-BERT-wwm, loading: bert, Huggingface-Transformers 2.2.2, PaddleHub
@@ -17,4 +17,10 @@
 - https://github.com/ZhuiyiTechnology/pretrained-models, loading: bert4keras
 
 ## huawei
-- https://github.com/huawei-noah/Pretrained-Language-Model, 
+- https://github.com/huawei-noah/Pretrained-Language-Model
+
+## thunlp
+- https://github.com/thunlp/OpenCLaP
+
+## HIT-SCIR, elmo
+- https://github.com/HIT-SCIR/ELMoForManyLangs
