@@ -9,6 +9,12 @@
 ## electra
 - https://github.com/google-research/electra, no chinese
 
+## t5
+- https://github.com/google-research/text-to-text-transfer-transformer, no chinese
+
+## gpt2-ml
+- https://github.com/imcaspar/gpt2-ml
+
 ## ymcui
 - https://github.com/ymcui/Chinese-BERT-wwm, loading: bert, Huggingface-Transformers 2.2.2, PaddleHub
 - https://github.com/ymcui/Chinese-XLNet, loading: xlnet, Huggingface-Transformers 2.2.2
