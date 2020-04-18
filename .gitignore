@@ -32,3 +32,4 @@ zhuiyi/chinese_roberta_L-6_H-384_A-12_K-128/
 zhuiyi/chinese_simbert_L-12_H-768_A-12/
 
 *.zip
+*.tar.gz
