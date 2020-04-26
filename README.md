@@ -33,8 +33,8 @@
 - https://github.com/ZhuiyiTechnology/pretrained-models, loading: bert4keras
 
 ## huawei
-- https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA
-https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT
+- https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-TensorFlow
+- https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT
 
 ## thunlp
 - https://github.com/thunlp/OpenCLaP
