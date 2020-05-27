@@ -41,3 +41,9 @@
 
 ## HIT-SCIR, elmo
 - https://github.com/HIT-SCIR/ELMoForManyLangs
+
+
+# pretrained word vector
+- https://github.com/Embedding/Chinese-Word-Vectors
+- https://ai.tencent.com/ailab/nlp/en/embedding.html
+- https://www.jianshu.com/p/ae5b45e96dbf，链接：https://pan.baidu.com/s/1ckkH_eT-WS4SN73Iq9Q_5A，密码：9aza
